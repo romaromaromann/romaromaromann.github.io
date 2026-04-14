@@ -1,0 +1,47 @@
+{
+  "daysOfWeek": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "months": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ],
+  "intervalBtn": {
+    "minute_t": "minute",
+    "minutes_t": "minutes",
+    "hour_t": "hour",
+    "hours_t": "hours",
+    "day_t": "day",
+    "week_t": "week",
+    "month_t": "month",
+    "change_interval": "Change interval",
+    "minutes": "1 / 5 / 15 / 30 - minutes",
+    "hours": "1h / 4h - hours",
+    "day": "1d - day",
+    "week": "1w - week",
+    "month": "1m - month"
+  },
+  "scale": {
+    "bars": "Bars",
+    "volume": "Volume",
+    "now": "Now",
+    "day": "d",
+    "hour": "h",
+    "minutes": "m"
+  },
+  "ohlcv": {
+    "o": "O",
+    "h": "H",
+    "l": "L",
+    "c": "C",
+    "v": "V"
+  }
+}

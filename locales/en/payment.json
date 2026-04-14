@@ -1,0 +1,22 @@
+{
+  "title": "Subscription Checkout",
+  "promo_code": "Promo code",
+  "promo_placeholder": "Enter promo code",
+  "apply": "Apply",
+  "promo_applied": "Promo code applied! {{discount}}% discount",
+  "payment_method": "Payment method",
+  "onchain": "On-chain",
+  "card": "Credit/Debit card",
+  "pay": "Pay",
+  "email_empty": "Email field cannot be empty",
+  "email_err": "Invalid email address",
+  "select_network": "Select network",
+  "fee": "Fee",
+  "warning_title": "Important",
+  "warning_message": "When sending, you MUST include the MEMO. Without him, the transfer will be lost!",
+  "memo_warning": "Include this note when sending",
+  "send_amount": "Send {{amount}} {{currency}} (excluding fees) to the address below within the remaining time",
+  "success_title": "Congratulations, your subscription has been successfully paid!",
+  "success_email_note": "Login details for the community will be sent to your email within a few minutes. If you don't see the email, please check your spam folder. You can start using the scanner right now.",
+  "processing": "Processing"
+}

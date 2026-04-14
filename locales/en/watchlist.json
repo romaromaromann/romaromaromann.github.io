@@ -1,0 +1,9 @@
+{
+  "bookmarks": "Watchlist",
+  "bookmarks_list_del": "Delete all tickers from the list ?",
+  "bookmarks_list_del_all": "Delete all bookmarks ?",
+  "bookmarks_del_all_btn": "Delete all bookmarks",
+  "bookmarks_toggle": "Toggle bookmarks",
+  "subtype_button": "Subtype",
+  "subtype_header": "Filter by subtype"
+}

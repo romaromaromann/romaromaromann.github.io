@@ -1,0 +1,23 @@
+{
+  "price_alert": {
+    "title": "Ценовое оповещение"
+  },
+  "hor_line": {
+    "title": "Горизонтальная линия",
+    "priceLabel": "Метка цены",
+    "priceLabelColor": "Фон метки",
+    "priceLabelText": "Текст метки"
+  },
+  "hor_ray": {
+    "title": "Горизонтальный луч"
+  },
+  "ray": {
+    "title": "Луч"
+  },
+  "trend_line": {
+    "title": "Трендовая линия"
+  },
+  "rectangle": {
+    "title": "Прямоугольник"
+  }
+}

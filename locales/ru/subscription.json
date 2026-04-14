@@ -1,0 +1,47 @@
+{
+  "exchanges": "Биржи",
+  "main_h": "Основное",
+  "notification_channels": "Каналы оповещений",
+  "notification_limits": "Лимиты оповещений",
+  "header": {
+    "free": "Бесплатный",
+    "basic": "Базовый",
+    "early_support": "Ранняя поддержка",
+    "free_desc": "Базовый доступ",
+    "free_desc_no_ad": "Базовый доступ без рекламы",
+    "free_start": "Начать пользоваться",
+    "referral": "Доступ за реферальную комиссию",
+    "plan_btn": "Выбрать тариф",
+    "early_support_desc": "Цена не изменится в будущем, пока подписка активна",
+    "month": "в месяц",
+    "unavailable": "Недоступно",
+    "part_available": "Доступно частично",
+    "available": "Доступно полностью",
+    "soon": "Скоро",
+    "subscription": "Подписка"
+  },
+  "main": {
+    "community": "Доступ в сообщество",
+    "advertising": "Отсутствие рекламы",
+    "density": "Страница плотности",
+    "density_chart": "Плотности на графике",
+    "workspace": "Страница «стройка»",
+    "user_data_l": "Пользовательские данные",
+    "user_data_paid": "Все устройства",
+    "user_data_free": "Только на этом устройстве",
+    "user_data_free_desc": "До очистки браузера"
+  },
+  "notifications": {
+    "call": "Звонок на телефон",
+    "priority_choice": "Выбор приоритета оповещения",
+    "priority_receive": "Приоритет получения оповещения",
+    "regular": "Обычный",
+    "highest": "Наивысший",
+    "one_component": "Однокомпонентные алерты",
+    "price_alerts": "Ценовые алерты",
+    "one_component_desc": "Ценовые, плотности, растяжки, фандинг",
+    "complex_alert": "Комплексные алерты",
+    "listings": "Листинги",
+    "news": "Новостные алерты"
+  }
+}

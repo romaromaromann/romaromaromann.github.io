@@ -1,0 +1,38 @@
+{
+  "indicators": {
+    "volume": "Объем",
+    "candleCountdown": "Отсчёт закрытия свечи",
+    "sessionTransition": "Переход сессии",
+    "openInterest": "Сумма открытых позиций",
+    "fundingRate": "Фандинг"
+  },
+  "modal": {
+    "style": "Стиль",
+    "visibility": "Видимость",
+    "show_last_value": "Показывать последнее значение",
+    "up": "Растущий",
+    "down": "Падающий",
+    "background_color": "Фон",
+    "text_color": "Текст",
+    "progress_color": "Отсчёт",
+    "position": "Расположение",
+    "position_select": {
+      "bottom_left": "Снизу слева",
+      "top_right": "Сверху справа",
+      "bottom_right": "Снизу справа"
+    },
+    "session_asia": "Азия",
+    "session_europe": "Европа",
+    "session_america": "Америка",
+    "dashLine": "Размер линии штриха",
+    "dashSpace": "Расстояние линии штриха"
+  },
+  "above_chart": {
+    "natr_5x14": "NATR 5x14",
+    "volume_24h": "Объём за 24ч в $",
+    "deals_24h": "Кол-во сделок за 24ч",
+    "percent_24h": "Изменение за 24ч в %",
+    "funding": "Фандинг",
+    "funding_t": "Фандинг, через"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Columns changing",
+  "header": "Market-data",
+  "0": "Ticker",
+  "1": "Logo",
+  "2": "Price",
+  "3": "24h range (%)",
+  "3_1": "24h %",
+  "4": "24h Volume ($)",
+  "4_1": "24h $",
+  "5": "NATR 5x14 (%)",
+  "5_1": "NATR",
+  "6_1": "Time Left",
+  "7": "Trades Count 24h",
+  "7_1": "Trades"
+}

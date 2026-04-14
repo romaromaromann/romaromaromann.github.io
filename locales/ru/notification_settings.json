@@ -1,0 +1,16 @@
+{
+  "header": "Настройки уведомлений",
+  "browser": "Браузер",
+  "send_by_default": "Отправлять по умолчанию",
+  "unlink_tg": "Отвязать Telegram",
+  "confirm_unlink": "Аккаунт будет отвязан. Следующая отвязка будет доступна только через 24 часа",
+  "low_priority": "Низкий приоритет",
+  "mid_priority": "Средний приоритет",
+  "high_priority": "Высокий приоритет",
+  "connect_telegram_bot": "Подключить Telegram бота",
+  "send_key_to_bot": "Отправьте ключ боту",
+  "open_telegram": "Открыть Telegram",
+  "tg_key": "Ваш ключ",
+  "connect": "Подключить",
+  "unavailable": "Недоступно для вашего текущего тарифа"
+}

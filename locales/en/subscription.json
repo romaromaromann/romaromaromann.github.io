@@ -1,0 +1,48 @@
+{
+  "exchanges": "Exchanges",
+  "main_h": "Primary",
+  "notification_channels": "Notification channels",
+  "notification_limits": "Notification limits",
+  "header": {
+    "free": "Free",
+    "basic": "Basic",
+    "early_support": "Early Supporter",
+    "free_desc": "Base access",
+    "free_desc_no_ad": "Base access without advertising",
+    "free_start": "Start using",
+    "referral": "Referral commission payment",
+    "plan_btn": "Choose plan",
+    "early_support_desc": "Price locked while subscription is active",
+    "month": "in month",
+    "unavailable": "Unavailable",
+    "part_available": "Partially available",
+    "available": "Fully available",
+    "soon": "Soon",
+    "subscription": "Subscription"
+  },
+  "main": {
+    "community": "Access to community",
+    "advertising": "No advertising",
+    "market_map": "Market map",
+    "density": "Density page",
+    "density_chart": "Density at chart",
+    "workspace": "Workspace page",
+    "user_data_l": "User data",
+    "user_data_paid": "All devices",
+    "user_data_free": "Stored on this device only",
+    "user_data_free_desc": "Cleared with browser data"
+  },
+  "notifications": {
+    "call": "Phone call",
+    "priority_choice": "Notifications priority choice",
+    "priority_receive": "Priority for receiving notifications",
+    "regular": "Regular",
+    "highest": "Highest",
+    "one_component": "One-component alerts",
+    "price_alerts": "Price alerts",
+    "one_component_desc": "Price, density, range %, funding",
+    "complex_alert": "Complex alerts",
+    "listings": "Listings",
+    "news": "News alerts"
+  }
+}

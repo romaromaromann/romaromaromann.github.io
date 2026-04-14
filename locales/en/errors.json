@@ -1,0 +1,11 @@
+{
+  "onlyNumbers": "Only numbers",
+  "kmb": "Use K, M, B",
+  "error": {
+    "title": "Oops, something went wrong",
+    "description": "An unexpected error occurred. Our team is already working on a fix",
+    "details": "Error details",
+    "copy": "Copy error",
+    "reload": "Reload page"
+  }
+}

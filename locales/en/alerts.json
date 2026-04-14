@@ -1,0 +1,36 @@
+{
+  "alerts": "Notifications",
+  "create": "Create alert",
+  "history": "Worked out",
+  "created": "Created",
+  "triggered": "Triggered",
+  "no_active_alerts": "No active notifications 🌴",
+  "no_triggered_alerts": "No triggered notifications 🌴",
+  "delete_all": "Are you want to delete all active alerts ?",
+  "delete_all_t": "Are you want to delete all triggered alerts ?",
+  "send": "Send",
+  "sended": "Sended",
+  "condition": {
+    "crossing": "Crossing",
+    "above": "Above",
+    "below": "Below",
+    "description": {
+      "crossing": "Triggers when price will ±1% of target",
+      "crossing_warn": "May not trigger on price gaps",
+      "above": "Triggers when price goes above target",
+      "below": "Triggers when price goes below target"
+    }
+  },
+  "popup": {
+    "header": "Add notification",
+    "instrument": "Instrument",
+    "on": "on",
+    "priority": "Priority",
+    "sound": "Sound",
+    "send": "Send to",
+    "price": "Price",
+    "condition": "Condition",
+    "cancel": "Cancel",
+    "add": "Add"
+  }
+}

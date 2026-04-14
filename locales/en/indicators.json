@@ -1,0 +1,38 @@
+{
+  "indicators": {
+    "volume": "Volume",
+    "candleCountdown": "Candle close countdown",
+    "sessionTransition": "Session transition",
+    "openInterest": "Open Interest",
+    "fundingRate": "Funding"
+  },
+  "modal": {
+    "style": "Style",
+    "visibility": "Visibility",
+    "show_last_value": "Show last value",
+    "up": "Growing",
+    "down": "Falling",
+    "background_color": "Background",
+    "text_color": "Text",
+    "progress_color": "Progress",
+    "position": "Position",
+    "position_select": {
+      "bottom_left": "Bottom Left",
+      "top_right": "Top Right",
+      "bottom_right": "Bottom Right"
+    },
+    "session_europe": "Europe",
+    "session_asia": "Asia",
+    "session_america": "America",
+    "dashLine": "Dash line",
+    "dashSpace": "Dash space"
+  },
+  "above_chart": {
+    "natr_5x14": "NATR 5x14",
+    "volume_24h": "Daily volume in $",
+    "deals_24h": "Daily deals",
+    "percent_24h": "Daily range in %",
+    "funding": "Funding",
+    "funding_t": "Funding, through"
+  }
+}

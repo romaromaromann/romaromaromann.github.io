@@ -1,0 +1,23 @@
+{
+  "price_alert": {
+    "title": "Price alert"
+  },
+  "hor_line": {
+    "title": "Horizontal line",
+    "priceLabel": "Price label",
+    "priceLabelColor": "Color price label",
+    "priceLabelText": "Text price label"
+  },
+  "hor_ray": {
+    "title": "Horizontal ray"
+  },
+  "ray": {
+    "title": "Ray"
+  },
+  "trend_line": {
+    "title": "Trend Line"
+  },
+  "rectangle": {
+    "title": "Rectangle"
+  }
+}

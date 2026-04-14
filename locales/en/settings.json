@@ -1,0 +1,19 @@
+{
+  "price": {
+    "none": "None",
+    "price_and_time": "Price & candle close time",
+    "price_only": "Price only"
+  },
+  "grid": {
+    "none": "None",
+    "vert": "Vert only",
+    "horz": "Horz only",
+    "both": "Vert and horz"
+  },
+  "ohlcv_settings": {
+    "none": "None",
+    "chart_only": "Chart values",
+    "volume_only": "Volume",
+    "both": "Chart values & Volume"
+  }
+}

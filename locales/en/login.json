@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome!",
+  "autorization": "Autorization",
+  "login": "Sign in",
+  "no_account": "Don't have an account?",
+  "registration": "Sign up",
+  "email": "Email",
+  "key": "Key",
+  "key_err": "Invalid key format",
+  "invalid_key_one": "Invalid key, {{count}} attempt left",
+  "invalid_key_other": "Invalid key, {{count}} attempts left",
+  "req_limit": "Too many failed requests. Try again later",
+  "send_code": "Send code"
+}

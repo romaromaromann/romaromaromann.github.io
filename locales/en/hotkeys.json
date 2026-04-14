@@ -1,0 +1,50 @@
+{
+  "title": "Hotkeys",
+  "general": {
+    "name": "General",
+    "left_click": "Left click",
+    "double_click": "Double click",
+    "shortcuts": {
+      "1": "Close Popup",
+      "2": "Toggle Top panel",
+      "3": "Toggle Hotkeys window"
+    }
+  },
+  "market_research": {
+    "shortcuts": {
+      "1": "Next ticker",
+      "2": "Previous ticker",
+      "3": "Toggle Right panel"
+    }
+  },
+  "chart": {
+    "name": "Chart",
+    "shortcuts": {
+      "0": "Right Click Mouse",
+      "0_1": "Open settings",
+      "1": "Reset chart",
+      "2": "Open change interval window",
+      "3": "Open search ticker window",
+      "4": "Measure",
+      "5": "Swap market type",
+      "add_price_alert": "Add Price Alert",
+      "add_price_alert_popup": "Open Price Alert creation menu",
+      "add_price_alert_help": "May not trigger on price gaps",
+      "6": "Add Horizontal Line",
+      "7": "Add Horizontal Ray",
+      "8": "Add Trend Line",
+      "ray": "Add Ray",
+      "rectangle": "Add Rectangle",
+      "magnet": "Magnet",
+      "maximize": "Open in fullscreen mode",
+      "fullscreen": "Maximize window",
+      "del": "Delete object"
+    }
+  },
+  "density_map": {
+    "name": "Density Map",
+    "shortcuts": {
+      "1": "X"
+    }
+  }
+}

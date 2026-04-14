@@ -1,0 +1,9 @@
+{
+  "bookmarks": "Списки",
+  "bookmarks_list_del": "Удалить все тикеры из списка ?",
+  "bookmarks_list_del_all": "Удалить все списки ?",
+  "bookmarks_del_all_btn": "Удалить все списки",
+  "bookmarks_toggle": "Переключить все списки",
+  "subtype_button": "Категории",
+  "subtype_header": "Фильтр по категории"
+}

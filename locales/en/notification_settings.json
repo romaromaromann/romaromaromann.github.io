@@ -1,0 +1,16 @@
+{
+  "header": "Notification settings",
+  "browser": "Browser",
+  "send_by_default": "Send by default",
+  "unlink_tg": "Unlink Telegram",
+  "confirm_unlink": "The account will be unlinked. Next unlinking will be available only after 24 hours",
+  "low_priority": "Low priority",
+  "mid_priority": "Medium priority",
+  "high_priority": "High priority",
+  "connect_telegram_bot": "Connect Telegram Bot",
+  "send_key_to_bot": "Send key to the bot",
+  "open_telegram": "Open Telegram",
+  "tg_key": "Your key",
+  "connect": "Connect",
+  "unavailable": "Unavailable for your current plan"
+}
