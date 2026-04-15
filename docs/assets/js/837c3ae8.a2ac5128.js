@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[7949],{7356(t){t.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Community","slug":"/category/community","permalink":"/category/community","sidebar":"tutorialSidebar","navigation":{"next":{"title":"Test","permalink":"/community/test"}}}}')}}]);
