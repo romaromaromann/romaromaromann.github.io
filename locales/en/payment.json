@@ -1,4 +1,12 @@
 {
+  "promo": {
+    "not_found": "Promo code not found",
+    "invalid_plan": "Promo code is not valid for this plan",
+    "invalid_months": "Promo code is not valid for this subscription period",
+    "invalid": "Promo code is invalid",
+    "renewal_not_allowed": "Promo code cannot be used for renewals",
+    "error": "Error validating promo code"
+  },
   "title": "Subscription Checkout",
   "promo_code": "Promo code",
   "promo_placeholder": "Enter promo code",
@@ -15,7 +23,13 @@
   "warning_title": "Important",
   "warning_message": "When sending, you MUST include the MEMO. Without him, the transfer will be lost!",
   "memo_warning": "Include this note when sending",
+  "memo_optional": "Comment optional but recommended for additional payment identification",
+  "amount_label": "Amount to pay",
+  "amount_warning": "Transfer this exact amount with a decimal point",
+  "amount_warning_message": "Transfer the exact amount with a decimal point. Do not round or change digits, otherwise the payment will not be credited!",
   "send_amount": "Send {{amount}} {{currency}} (excluding fees) to the address below within the remaining time",
+  "send_amount_few": "Send {{amount}} {{currency}} in any of the currencies  excluding fees to the address below within the remaining time",
+  "network_overloaded": "Network is busy — try a different amount or payment method",
   "success_title": "Congratulations, your subscription has been successfully paid!",
   "success_email_note": "Login details for the community will be sent to your email within a few minutes. If you don't see the email, please check your spam folder. You can start using the scanner right now.",
   "processing": "Processing"

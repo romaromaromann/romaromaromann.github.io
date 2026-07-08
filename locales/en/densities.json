@@ -1,0 +1,14 @@
+{
+  "individual": "Individual",
+  "no_individual": "No individual filters",
+  "no_individual_colors": "No individual colors",
+  "sort": {
+    "bids": "Bids",
+    "asks": "Asks",
+    "created_at": "Time",
+    "usd_volume": "Size",
+    "distance_pct": "Distance",
+    "pinned": "Pinned",
+    "touch_count": "Touches"
+  }
+}

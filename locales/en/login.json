@@ -1,14 +1,21 @@
 {
   "welcome": "Welcome!",
   "autorization": "Autorization",
+  "unknown_error": "Unknown error",
   "login": "Sign in",
+  "or": "Or",
+  "google": "Continue with Google",
   "no_account": "Don't have an account?",
   "registration": "Sign up",
   "email": "Email",
   "key": "Key",
-  "key_err": "Invalid key format",
   "invalid_key_one": "Invalid key, {{count}} attempt left",
   "invalid_key_other": "Invalid key, {{count}} attempts left",
   "req_limit": "Too many failed requests. Try again later",
-  "send_code": "Send code"
+  "send_code": "Send code",
+  "back": "Back",
+  "enter_code": "Enter code",
+  "code_sent_to": "Code sent to",
+  "check_spam": "If you don't see the email, check your spam folder",
+  "invalid_code": "Invalid code, please try again"
 }

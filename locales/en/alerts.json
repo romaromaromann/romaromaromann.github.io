@@ -1,6 +1,8 @@
 {
   "alerts": "Notifications",
-  "create": "Create alert",
+  "create": "Create notification",
+  "active": "Active",
+  "stopped": "Stopped",
   "history": "Worked out",
   "created": "Created",
   "triggered": "Triggered",
@@ -8,29 +10,50 @@
   "no_triggered_alerts": "No triggered notifications 🌴",
   "delete_all": "Are you want to delete all active alerts ?",
   "delete_all_t": "Are you want to delete all triggered alerts ?",
+  "contains_exchange": "Contains exchange",
+  "type_announcement": "Announcement type",
+  "have_futures": "Contains Futures",
   "send": "Send",
   "sended": "Sended",
+  "auto_hide_duration": "Auto-hide alert popup after",
+  "browser_turn_off": "Pop-up notifications and sounds are disabled.",
+  "browser_turn_on": "Pop-up notifications and sounds are enabled.",
+  "seconds": "Seconds",
+  "time": "Time",
+  "search_placeholder": "Search by name or instrument",
+  "logic": {
+    "AND": "AND"
+  },
   "condition": {
     "crossing": "Crossing",
     "above": "Above",
     "below": "Below",
     "description": {
-      "crossing": "Triggers when price will ±1% of target",
+      "crossing": "Triggers when price will ±1% of alert",
       "crossing_warn": "May not trigger on price gaps",
-      "above": "Triggers when price goes above target",
-      "below": "Triggers when price goes below target"
+      "above": "Triggers when price goes above alert",
+      "below": "Triggers when price goes below alert"
     }
   },
   "popup": {
-    "header": "Add notification",
     "instrument": "Instrument",
     "on": "on",
     "priority": "Priority",
     "sound": "Sound",
     "send": "Send to",
     "price": "Price",
+    "repeat": "Repeat",
+    "repeat_once": "Repeat once",
+    "repeat_interval": "Every",
+    "minutes": "(in minutes)",
     "condition": "Condition",
     "cancel": "Cancel",
     "add": "Add"
+  },
+  "tabs": {
+    "price": "Price",
+    "composite": "Composite",
+    "listings": "Listings",
+    "news": "News"
   }
 }

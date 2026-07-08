@@ -6,6 +6,8 @@
     "description": "An unexpected error occurred. Our team is already working on a fix",
     "details": "Error details",
     "copy": "Copy error",
+    "telegram_not_linked": "Telegram is not connected. Navigate to settings",
+    "limit_exceeded": "Notification limit exceeded ({{current}}/{{limit}})",
     "reload": "Reload page"
   }
 }

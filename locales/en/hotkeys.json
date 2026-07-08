@@ -1,50 +1,51 @@
 {
   "title": "Hotkeys",
+  "reset": "Reset to default",
   "general": {
     "name": "General",
     "left_click": "Left click",
     "double_click": "Double click",
-    "shortcuts": {
-      "1": "Close Popup",
-      "2": "Toggle Top panel",
-      "3": "Toggle Hotkeys window"
+    "toggle_top_panel": "Toggle Top panel",
+    "toggle_rigth_panel": "Toggle Right panel",
+    "close": "Close Popup"
+  },
+  "drawing": {
+    "name": "Drawing tools",
+    "general": {
+      "price_alert": "Price Alert",
+      "ruler": "Measure",
+      "magnet": "Magnet",
+      "hor_line": "Horizontal Line",
+      "hor_ray": "Horizontal Ray",
+      "ray": "Add Ray",
+      "trend_line": "Trend Line",
+      "rectangle": "Rectangle"
     }
   },
-  "market_research": {
-    "shortcuts": {
-      "1": "Next ticker",
-      "2": "Previous ticker",
-      "3": "Toggle Right panel"
-    }
+  "notifications": {
+    "add_price_alert_popup": "Open notification creation menu",
+    "turn_off_browser": "Disable pop-up notifications and sound"
+  },
+  "conflict": {
+    "title": "Hotkey Conflict",
+    "message": "{{hotkey}} is already assigned to «{{conflictLabel}}»",
+    "reset_warning": "«{{conflictLabel}}» will be reset to its default value",
+    "clear_warning": "«{{conflictLabel}}» will be unassigned",
+    "confirm": "Confirm"
   },
   "chart": {
     "name": "Chart",
+    "next_ticker": "Next ticker",
+    "prev_ticker": "Previous ticker",
+    "market_swap": "Swap market type",
+    "maximize": "Open in fullscreen mode",
+    "fullscreen": "Maximize window",
+    "interval": "Open change interval window",
+    "search": "Open search ticker window",
+    "chart_reset": "Reset chart view",
     "shortcuts": {
-      "0": "Right Click Mouse",
-      "0_1": "Open settings",
-      "1": "Reset chart",
-      "2": "Open change interval window",
-      "3": "Open search ticker window",
-      "4": "Measure",
-      "5": "Swap market type",
-      "add_price_alert": "Add Price Alert",
-      "add_price_alert_popup": "Open Price Alert creation menu",
       "add_price_alert_help": "May not trigger on price gaps",
-      "6": "Add Horizontal Line",
-      "7": "Add Horizontal Ray",
-      "8": "Add Trend Line",
-      "ray": "Add Ray",
-      "rectangle": "Add Rectangle",
-      "magnet": "Magnet",
-      "maximize": "Open in fullscreen mode",
-      "fullscreen": "Maximize window",
       "del": "Delete object"
-    }
-  },
-  "density_map": {
-    "name": "Density Map",
-    "shortcuts": {
-      "1": "X"
     }
   }
 }

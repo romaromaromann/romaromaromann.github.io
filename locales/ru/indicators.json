@@ -4,6 +4,7 @@
     "candleCountdown": "Отсчёт закрытия свечи",
     "sessionTransition": "Переход сессии",
     "openInterest": "Сумма открытых позиций",
+    "densities": "Плотности на графике",
     "fundingRate": "Фандинг"
   },
   "modal": {
@@ -29,9 +30,11 @@
   },
   "above_chart": {
     "natr_5x14": "NATR 5x14",
-    "volume_24h": "Объём за 24ч в $",
+    "volume_24h": "Объём за 24ч ($)",
     "deals_24h": "Кол-во сделок за 24ч",
-    "percent_24h": "Изменение за 24ч в %",
+    "percent_24h": "Изменение за 24ч (%)",
+    "kline_range_1m": "Изменение за 1м (%)",
+    "kline_range_5m": "Изменение за 5м (%)",
     "funding": "Фандинг",
     "funding_t": "Фандинг, через"
   }

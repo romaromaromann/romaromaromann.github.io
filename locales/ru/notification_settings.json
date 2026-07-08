@@ -12,5 +12,6 @@
   "open_telegram": "Открыть Telegram",
   "tg_key": "Ваш ключ",
   "connect": "Подключить",
+  "voice_settings":  "Произношение",
   "unavailable": "Недоступно для вашего текущего тарифа"
 }

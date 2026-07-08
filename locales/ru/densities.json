@@ -1,0 +1,14 @@
+{
+  "individual": "Индивидуальные",
+  "no_individual": "Нет индивидуальных фильтров",
+  "no_individual_colors": "Нет индивидуальных цветов",
+  "sort": {
+    "bids": "Биды",
+    "asks": "Аски",
+    "created_at": "Время",
+    "usd_volume": "Размер",
+    "distance_pct": "Удалённость",
+    "pinned": "Закреплённые",
+    "touch_count": "Кол-во касаний"
+  }
+}

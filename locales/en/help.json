@@ -1,4 +1,5 @@
 {
+  "listing_ticker_hint": "If no ticker is specified, any new listing will trigger the alert. If a ticker is specified without exact match, it will match any ticker containing it — e.g. ETH will match ETHFI",
   "marketMapFilters": "Hiding tickers on a specified conditions",
   "num_k": "Shortcut K for thousand, example 220K",
   "num_m": "Shortcut M for million, example 30M",

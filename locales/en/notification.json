@@ -3,6 +3,6 @@
   "table_request_limit": "Request limit exceeded. Please slow down 💨",
   "market_swap_futures": "Futures unavailable",
   "market_swap_spot": "Spot unavailable",
-  "close_all": "Close all",
-  "price_alert": "Price notification"
+  "listing": "Listing",
+  "close_all": "Close all"
 }

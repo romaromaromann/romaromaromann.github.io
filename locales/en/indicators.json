@@ -4,6 +4,7 @@
     "candleCountdown": "Candle close countdown",
     "sessionTransition": "Session transition",
     "openInterest": "Open Interest",
+    "densities": "Densities on the chart",
     "fundingRate": "Funding"
   },
   "modal": {
@@ -29,9 +30,11 @@
   },
   "above_chart": {
     "natr_5x14": "NATR 5x14",
-    "volume_24h": "Daily volume in $",
+    "volume_24h": "Daily volume ($)",
     "deals_24h": "Daily deals",
-    "percent_24h": "Daily range in %",
+    "percent_24h": "Daily range (%)",
+    "kline_range_1m": "1m range (%)",
+    "kline_range_5m": "5m range (%)",
     "funding": "Funding",
     "funding_t": "Funding, through"
   }

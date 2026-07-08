@@ -1,7 +1,4 @@
 {
-  "price_alert": {
-    "title": "Price alert"
-  },
   "hor_line": {
     "title": "Horizontal line",
     "priceLabel": "Price label",

@@ -2,6 +2,7 @@
   "title": "Exclude",
   "header": "Exclude Quote Assets",
   "header_1": "Exclude Categories",
+  "exchanges": "Exclude exchanges",
   "button": "Filters",
   "0": "Futures w/o spot",
   "0_1": "Spot w/o futures",
