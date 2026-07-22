@@ -1,4 +1,14 @@
 {
+  "browserWarning": {
+    "title": "Рекомендуем использовать Chrome",
+    "subtitle": "Приложение оптимизировано для Chromium браузеров",
+    "chrome_label": "Chrome",
+    "chrome_desc": "Полная поддержка всех функций",
+    "unsupported_label": "Safari / Firefox / другие",
+    "unsupported_desc": "Могут быть баги, некорректная работа и проблемы с производительностью",
+    "download": "Скачать Chrome",
+    "continue": "Всё равно продолжить"
+  },
   "update_available": "Доступна новая версия приложения после перезагрузки",
   "table_request_limit": "Превышен лимит запросов. Пожалуйста, подождите немного 💨",
   "market_swap_futures": "Фьючерс недоступен",

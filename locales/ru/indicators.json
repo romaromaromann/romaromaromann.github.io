@@ -1,4 +1,5 @@
 {
+  "density_limit_exceeded": "Превышено кол-во плотностей, настройте фильтры",
   "indicators": {
     "volume": "Объем",
     "candleCountdown": "Отсчёт закрытия свечи",

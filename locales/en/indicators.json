@@ -1,4 +1,5 @@
 {
+  "density_limit_exceeded": "Density limit exceeded, adjust filters",
   "indicators": {
     "volume": "Volume",
     "candleCountdown": "Candle close countdown",

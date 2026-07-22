@@ -1,0 +1,15 @@
+{
+  "exchanges": "Leading crypto exchanges in one screener",
+  "features": {
+    "title": "Our capabilities",
+    "workspace": "Build your own workspaces for any task. The Builder page is a constructor for your perfect setup: assemble workspaces from any tools",
+    "alerts": "Browser, Telegram, phone call — instant notifications about market changes, even when you're away from your screen",
+    "density": "Spot large players in the order book instantly. The density table and on-chart indicator reveal all large orders — filter, highlight significant orders with your own colors, and never miss bounce and breakout points",
+    "listing": "Track freshly launched coins and get instant alerts when they hit exchanges",
+    "market_research": "Create your own lists, mark levels, and set alerts in a flexible watchlist. Filter coins by exchange and find only independent instruments",
+    "market_map": "Keep an eye on any exchange with a dynamic market map. Instantly track top coins by movement, volume, volatility, volume and trade spikes, funding, and many other metrics"
+  },
+  "hero": {
+    "title": "..."
+  }
+}

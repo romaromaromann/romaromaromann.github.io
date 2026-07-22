@@ -1,4 +1,6 @@
 {
+  "market_data": "Market data",
+  "breakpoints": "Breakpoints",
   "klines_count": "candles count",
   "klines_count_desc": "Number of candles loaded on initial chart render",
   "klines_count_range": "Must be between {{min}} and {{max}}",

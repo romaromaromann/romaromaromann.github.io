@@ -14,7 +14,7 @@
   "promo_applied": "Promo code applied! {{discount}}% discount",
   "payment_method": "Payment method",
   "onchain": "On-chain",
-  "card": "Credit/Debit card",
+  "card": "Card",
   "pay": "Pay",
   "email_empty": "Email field cannot be empty",
   "email_err": "Invalid email address",

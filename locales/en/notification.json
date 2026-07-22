@@ -1,4 +1,14 @@
 {
+  "browserWarning": {
+    "title": "We recommend using Chrome",
+    "subtitle": "The app is optimized for Chromium browsers",
+    "chrome_label": "Chrome",
+    "chrome_desc": "Full support for all features",
+    "unsupported_label": "Safari / Firefox / others",
+    "unsupported_desc": "May have bugs, incorrect behavior and performance issues",
+    "download": "Download Chrome",
+    "continue": "Continue anyway"
+  },
   "update_available": "New app version available after refresh",
   "table_request_limit": "Request limit exceeded. Please slow down 💨",
   "market_swap_futures": "Futures unavailable",
