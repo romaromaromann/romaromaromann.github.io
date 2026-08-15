@@ -1,15 +1,47 @@
 {
+  "hero": {
+    "title_line1": "Professional tools",
+    "title_line2": "for traders",
+    "title_line3": "in one place",
+    "description": "Built by a team of practicing traders — to simplify your daily work with the market."
+  },
+  "navigation": {
+    "tarifs": "Tarifs"
+  },
   "exchanges": "Leading crypto exchanges in one screener",
   "features": {
     "title": "Our capabilities",
     "workspace": "Build your own workspaces for any task. The Builder page is a constructor for your perfect setup: assemble workspaces from any tools",
     "alerts": "Browser, Telegram, phone call — instant notifications about market changes, even when you're away from your screen",
-    "density": "Spot large players in the order book instantly. The density table and on-chart indicator reveal all large orders — filter, highlight significant orders with your own colors, and never miss bounce and breakout points",
+    "density": "Spot large players in the order book. The density table and on-chart indicator reveal all large orders — filter, highlight significant orders with your own colors, and never miss bounce and breakout points",
     "listing": "Track freshly launched coins and get instant alerts when they hit exchanges",
     "market_research": "Create your own lists, mark levels, and set alerts in a flexible watchlist. Filter coins by exchange and find only independent instruments",
     "market_map": "Keep an eye on any exchange with a dynamic market map. Instantly track top coins by movement, volume, volatility, volume and trade spikes, funding, and many other metrics"
   },
-  "hero": {
-    "title": "..."
+  "alerts": {
+    "price_desc": "Get notified when an instrument reaches your target price level",
+    "composite_desc": "Combine multiple conditions in one alert — volume, price change, funding and other metrics at the same time",
+    "listing_desc": "Automatic notification when a new instrument is added to an exchange",
+    "news_desc": "Instant notifications about news catalysts",
+    "density_desc": "Track large orders in the order book without manual monitoring"
+  },
+  "price": {
+    "title": "Our Pricing"
+  },
+  "free_feature": {
+    "1": "Limited access to market review",
+    "2": "Limited access to market map",
+    "3": "5 indicators",
+    "4": "3 exchanges",
+    "5": "User data stored locally"
+  },
+  "free_paid_feature": {
+    "1": "Browser and Telegram alerts",
+    "2": "User data synced across all devices",
+    "3": "Advanced filters",
+    "4": "5k historical bars"
+  },
+  "early_feature": {
+    "1": "25k historical bars"
   }
 }

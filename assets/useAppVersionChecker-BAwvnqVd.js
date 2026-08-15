@@ -1,0 +1,1 @@
+import{u as a,bk as t,r as e,a2 as o}from"./index-D8NR8KD9.js";const s="1.0.4";function n(){const{t:n}=a("notification"),{showStandard:i}=t();e.useEffect(()=>{const a=localStorage.getItem(o.appVersion);a&&a!==s&&i({type:"info",message:n("update_available"),autoHideDuration:999999}),a||localStorage.setItem(o.appVersion,s),localStorage.setItem(o.appVersion,s)},[s])}export{n as u};
