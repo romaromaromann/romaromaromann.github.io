@@ -4,6 +4,7 @@
   "header_1": "Exclude Categories",
   "exchanges": "Exclude exchanges",
   "button": "Filters",
+  "stocks": "Stocks",
   "0": "Futures w/o spot",
   "0_1": "Spot w/o futures",
   "1": "Exclude Binance",
