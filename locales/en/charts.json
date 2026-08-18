@@ -19,6 +19,7 @@
     "minutes_t": "minutes",
     "hour_t": "hour",
     "hours_t": "hours",
+    "hours_many": "hours",
     "day_t": "day",
     "week_t": "week",
     "month_t": "month",

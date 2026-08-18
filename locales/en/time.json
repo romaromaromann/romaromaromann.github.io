@@ -1,10 +1,15 @@
 {
   "time": {
+    "now": "now",
     "s": "s",
     "m": "m",
     "h": "h",
     "d": "d",
     "w": "w",
-    "mo": "mo"
+    "mo": "mo",
+    "s_full": "sec",
+    "m_full": "min",
+    "d_full": "day",
+    "w_full": "week"
   }
 }

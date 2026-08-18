@@ -23,7 +23,8 @@
     }
   },
   "notifications": {
-    "add_price_alert_popup": "Open notification creation menu",
+    "add_create_alert_popup": "Open notification creation menu",
+    "alerts_popup": "Open notifications menu",
     "turn_off_browser": "Disable pop-up notifications and sound"
   },
   "conflict": {

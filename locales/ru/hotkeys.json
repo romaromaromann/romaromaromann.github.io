@@ -23,7 +23,8 @@
     }
   },
   "notifications": {
-    "add_price_alert_popup": "Открыть меню создания оповещения",
+    "add_create_alert_popup": "Открыть меню создания оповещения",
+    "alerts_popup": "Открыть меню оповещений",
     "turn_off_browser": "Отключить всплывающие уведомления и звук"
   },
   "conflict": {

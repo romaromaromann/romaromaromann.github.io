@@ -1,0 +1,1 @@
+import{j as o}from"./index-BeDZE6-Z.js";import{T as s}from"./TopPanelLayout-BvNMBhwU.js";import{S as r}from"./Subscription-fwfHcpX1.js";import{u as t}from"./useIsMobile-CP7bidvf.js";import"./HeaderLeft-BBd8oLOC.js";import"./usePaymentStore-DldslKvT.js";const Component=function(){const e=t();return o.jsx(s,{form:o.jsx(r,{}),showPageTabs:!e})};export{Component};
